@@ -1,0 +1,26 @@
+{
+    "api": {
+        "port": 3000,
+        "host": "localhost"
+    },
+    "connectDB": {
+        "host": "localhost",
+        "user": "root",
+        "password": "mouhammad190893",
+        "database": "hvmm"
+    },
+    "logger": {
+        "ops": {
+            "interval": 1000
+        },
+        "reporters": {
+            "myConsoleReporter": [{
+                "module": "good-squeeze",
+                "name": "Squeeze",
+                "args": [{ "log": "*", "response": "*" }]
+            }, {
+                "module": "good-console"
+            }, "stdout"]
+        }
+    }
+}
