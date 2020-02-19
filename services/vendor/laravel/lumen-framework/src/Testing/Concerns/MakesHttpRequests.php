@@ -5,6 +5,7 @@ namespace Laravel\Lumen\Testing\Concerns;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use PHPUnit\Framework\Assert as PHPUnit;
+use Laravel\Lumen\Http\Request as LumenRequest;
 use Symfony\Component\HttpFoundation\Request as SymfonyRequest;
 
 trait MakesHttpRequests
@@ -335,7 +336,7 @@ trait MakesHttpRequests
             $cookies, $files, $server, $content
         );
 
-        $this->app['request'] = Request::createFromBase($symfonyRequest);
+        $this->app['request'] = LumenRequest::createFromBase($symfonyRequest);
 
         return $this->response = $this->app->prepareResponse(
             $this->app->handle($this->app['request'])
@@ -438,7 +439,7 @@ trait MakesHttpRequests
 
         if (! is_null($value)) {
             PHPUnit::assertEquals(
-                $headers->get($headerName), $value,
+                $value, $headers->get($headerName),
                 "Header [{$headerName}] was found, but value [{$headers->get($headerName)}] does not match [{$value}]."
             );
         }

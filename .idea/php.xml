@@ -62,7 +62,6 @@
       <path value="$PROJECT_DIR$/services/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/services/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/services/vendor/phpunit/phpunit" />
-      <path value="$PROJECT_DIR$/services/vendor/symfony/contracts" />
       <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-ctype" />
       <path value="$PROJECT_DIR$/services/vendor/symfony/http-kernel" />
       <path value="$PROJECT_DIR$/services/vendor/symfony/process" />
@@ -81,6 +80,14 @@
       <path value="$PROJECT_DIR$/services/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/services/vendor/phpunit/php-token-stream" />
       <path value="$PROJECT_DIR$/services/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/services/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-intl-idn" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
