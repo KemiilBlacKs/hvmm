@@ -5,8 +5,8 @@
     },
     "connectDB": {
         "host": "127.0.0.1",
-        "user": "root",
-        "password": "mouhammad190893",
+        "user": "",
+        "password": "",
         "database": "hvmm"
     },
     "logger": {

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/services/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/hashing" />
+      <path value="$PROJECT_DIR$/services/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/services/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/services/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/services/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/services/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/auth" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/log" />
+      <path value="$PROJECT_DIR$/services/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/services/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/broadcasting" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/encryption" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/services/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/services/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/services/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/services/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/services/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/services/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/services/vendor/laravel/lumen-framework" />
+      <path value="$PROJECT_DIR$/services/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/services/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/services/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/services/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/services/vendor/composer" />
+      <path value="$PROJECT_DIR$/services/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/services/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/services/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/services/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/services/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/services/vendor/wn/lumen-generators" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/services/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/services/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/services/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/services/vendor/illuminate/database" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/services/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
